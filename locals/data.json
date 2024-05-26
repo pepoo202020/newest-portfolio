@@ -1,0 +1,110 @@
+{
+  "name": "My_Data",
+  "description": "This is my data",
+  "data": [
+    {
+      "name": "Main_Page_Data",
+      "data": {
+        "logo_name": "as",
+        "mail_link": "abanob.shenoda@hotmail.com",
+        "image_link": ""
+      }
+    },
+    {
+      "name": "Header_Data",
+      "data": {
+        "main_name": "Abanob Shenoda",
+        "header_nav_links": [
+          { "name": "Education", "link": "educations" },
+          { "name": "Experience", "link": "experiences" },
+          { "name": "Projects", "link": "projects" },
+          { "name": "Skills", "link": "skills" },
+          { "name": "Contact", "link": "contact" }
+        ]
+      }
+    },
+    {
+      "name": "Home Page Data",
+      "data": {
+        "welcome_content": [
+          {
+            "title": "Welcome_h1",
+            "data": "Hey, I'm Abanob Shenoda"
+          },
+          {
+            "title": "Welcome_h2",
+            "data": "Welcome to My Portfolio Page"
+          }
+        ],
+        "images": ["", "", "", ""],
+        "about_me": "Abanob Shenoda, a communications and electronics engineer from Assiut University, excelled in programming starting with C++. Progressing through mobile languages like Java, he delved into web development, mastering HTML, CSS, JS, Bootstrap, and JQuery. Furthering my skills through the EGFWD scholarship, I mastered JavaScript, Fullstack development, Postgres SQL, AWS, Flutter, Dart, React, Next.js, and MongoDB."
+      }
+    },
+    {
+      "name": "education_page",
+      "data": {
+        "basic_education_header": "Education",
+        "basic_education_sub_header": "Basic Qualification and Certifcations",
+        "certification_name_eng": "Faculty Of Engineering",
+        "certification_name_ud": "Udacity",
+        "certification_name_eg": "EGFWD",
+        "Degrees_Received": "Degrees Received",
+        "degrees": [
+          {
+            "title": "Asyut University",
+            "subtitle": "B.Sc. in Electrical Engineering - Electronics and Communication",
+            "logo_path": "https://networks.au-ibar.org/show/assiut-university/wiki-image/AU+REC+logos+%2827%29.png",
+            "alt_name": "Asyut University",
+            "duration": "2015 - 2022",
+            "descriptions": [
+              "⚡ I specialized in Electronics and Communication Engineering.",
+              "⚡ I have studied core subjects related to electrical engineering and communication technologies.",
+              "⚡ I graduated with a total grade of 'Good'."
+            ],
+            "website_link": "https://www.aun.edu.eg/main/"
+          },
+          {
+            "title": "Web Development Foundations",
+            "subtitle": "Challenger Web Development Course",
+            "logo_path": "https://static-00.iconduck.com/assets.00/udacity-icon-256x256-hfb3pjx3.png",
+            "alt_name": "Udacity",
+            "duration": "2022",
+            "descriptions": [
+              "⚡ I Created and styled web components.",
+              "⚡ I Debuged HTML and CSS code.",
+              "⚡ I Built a responsive website layout."
+            ],
+            "website_link": "https://egfwd.com/specializtion/web-development-foundations/"
+          },
+          {
+            "title": "Web Development Professional",
+            "subtitle": "Professional Web Development Course",
+            "logo_path": "https://static-00.iconduck.com/assets.00/udacity-icon-256x256-hfb3pjx3.png",
+            "alt_name": "Udacity",
+            "duration": "2022",
+            "descriptions": [
+              "⚡ I Learnt JavaScript , Understood logic and control flow.",
+              "⚡ I Created web content, Managed website performance.",
+              "⚡ I Worked with Node and Express, Built a webserver."
+            ],
+            "website_link": "https://egfwd.com/specializtion/web-development-professional/"
+          },
+          {
+            "title": "Web Development Advanced",
+            "subtitle": "Advanced Web Development Course",
+            "logo_path": "https://static-00.iconduck.com/assets.00/udacity-icon-256x256-hfb3pjx3.png",
+            "alt_name": "Udacity",
+            "duration": "2023",
+            "descriptions": [
+              "⚡ I learnt TypeScript, created test units with Jasmine. used Express to build APIs.",
+              "⚡ I Built a RESTful JSON API with Node and Postgres.",
+              "⚡ I Understood essential topics like databases and querying, API architecture, database migrations, REST, CRUD, creating a testing environment, password hashing and route authorization via JWTs.",
+              "⚡ I created environment properties in Elastic Beanstalk, created an S3 bucket and configured it for web hosting."
+            ],
+            "website_link": "https://egfwd.com/specializtion/web-development-advanced/"
+          }
+        ]
+      }
+    }
+  ]
+}
